@@ -2,6 +2,11 @@
 
 **Production-ready AI recommendation system** with semantic search, behavioral learning, and financial intelligence.
 
+Demo : 
+in the demo i didn't have enough dummy data.
+Demo video Link : https://drive.google.com/file/d/1aSthXtyOxr29zsFLzw6b1NUMIZFWHGw8/view?usp=drive_link
+
+
 ## 🎯 Features
 
 ### Core Capabilities
